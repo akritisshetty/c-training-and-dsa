@@ -14,7 +14,7 @@ int name(int n, char a[10]) {
 int main(void) {
 	int n;
 	char a[10];
-	printf("Enter your name: \n");
+	printf("Enter my name: \n");
 	scanf("%s", a);
 	printf("How many times do you want to print my name?\n");
 	scanf("%d", &n);
